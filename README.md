@@ -14,7 +14,7 @@
 
 ####  
 HACKER YOVI-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
+## <sub>[External Plugins](https://github.com/HACKER-YOVI/-HACKER-YOVI-MD-Plugins/tree/main?tab=readme-ov-file)</sub>
 
 ***
 
